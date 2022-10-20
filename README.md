@@ -3,6 +3,6 @@
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,bash,git,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=docker,redis,mongodb,bash,git,vscode" />
   </a>
 </p>
